@@ -129,8 +129,6 @@ This reconnaissance project against a Global Telecommunication infrastructure su
 * **OSINT Significance:** The discovery of publicly indexed internal documents proves that technical vulnerabilities aren't the only risk; **Information Leakage** is a critical factor in the "Weaponization" phase of an attack.
 * **Ethical Standards:** This engagement was conducted under a strict "Non-Intrusive" framework, ensuring zero disruption to the organization's infrastructure while providing valuable security insights.
 
-> [!IMPORTANT]
-> **Researcher’s Mindset:** > "In cybersecurity, tools provide the data, but the analyst provides the context. Identifying what is *fake* (Honeypots) is just as important as identifying what is *vulnerable*."
 
 ---
 *Developed by **Satria** | Junior Pentester & Security Researcher*

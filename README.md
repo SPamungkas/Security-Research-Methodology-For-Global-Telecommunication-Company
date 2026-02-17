@@ -1,4 +1,4 @@
-# Security-Research-Methodology-For-Global-Telecommunication-Company
+# 🌐 Infrastructure Reconnaissance: Global Telecommunication Sector
 Security Research &amp; Offensive Security Portfolio. Focused on web infrastructure reconnaissance and vulnerability analysis following OWASP WSTG methodologies.
 
 ## 1. 🛡️ Project Overview
